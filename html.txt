@@ -1,0 +1,168 @@
+/c/Users/Jarell/Desktop/Axure Hipsters Brewery/cart.html
+/c/Users/Jarell/Desktop/Axure Hipsters Brewery/checkout.html
+/c/Users/Jarell/Desktop/Axure Hipsters Brewery/contacts.html
+/c/Users/Jarell/Desktop/Axure Hipsters Brewery/drink_of_the_week.html
+/c/Users/Jarell/Desktop/Axure Hipsters Brewery/home.html
+/c/Users/Jarell/Desktop/Axure Hipsters Brewery/index.html
+/c/Users/Jarell/Desktop/Axure Hipsters Brewery/location.html
+/c/Users/Jarell/Desktop/Axure Hipsters Brewery/our_team__about_.html
+/c/Users/Jarell/Desktop/Axure Hipsters Brewery/regcomplete.html
+/c/Users/Jarell/Desktop/Axure Hipsters Brewery/shop.html
+/c/Users/Jarell/Desktop/Axure Hipsters Brewery/shop_page_2.html
+/c/Users/Jarell/Desktop/Axure Hipsters Brewery/shop_page_3.html
+/c/Users/Jarell/Desktop/Axure Hipsters Brewery/shop_page_4.html
+/c/Users/Jarell/Desktop/Axure Hipsters Brewery/signin_register.html
+/c/Users/Jarell/Desktop/Axure Hipsters Brewery/start.html
+/c/Users/Jarell/Desktop/Axure Hipsters Brewery/start_c_1.html
+/c/Users/Jarell/Desktop/Axure Hipsters Brewery/terms___condition.html
+/c/Users/Jarell/Desktop/Axure Hipsters Brewery/thank_you_.html
+/c/Users/Jarell/Desktop/Axure Hipsters Brewery/thank_you_for_purchase_.html
+/c/Users/Jarell/Desktop/backup/git/forest/index1.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/3/AddToFavourites.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/3/BMI.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/3/BondRatings.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/3/CalcAverage.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/3/CalcShipping.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/3/Calculator.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/3/GasMileage.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/3/GreetingCards.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/3/index.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/3/Registration.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/ps2/Docs/GPL.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/2/1250.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/2/1280.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/2/2260.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/2/contact.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/2/index.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/2/schedule.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/as2/1250.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/as2/1280.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/as2/2260.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/as2/contact.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/as2/index.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/as2/schedule.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/Assignment 1 - JarellAlvarez/education.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/Assignment 1 - JarellAlvarez/index.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/Assignment 1 - JarellAlvarez/objectives.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/Assignment 1 - JarellAlvarez/skillsinterest.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/Assignment 1 - JarellAlvarez/work.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/Codelobster1.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/GasMileage.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/index.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/myBCIT.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/myBCIT_files/render.html
+/c/Users/Jarell/Desktop/DESKTOP STUFF/random douglas html/myBCIT_files/twpdupr.html
+/c/Users/Jarell/Desktop/dk/._dk.html
+/c/Users/Jarell/Desktop/dk/dk.html
+/c/Users/Jarell/Desktop/git/forest/index1.html
+/c/Users/Jarell/Desktop/Lab 3/As3.html
+/c/Users/Jarell/Desktop/Lab 4/As4.html
+/c/Users/Jarell/Desktop/Lab 6/final_right.html
+/c/Users/Jarell/Desktop/Lab 6/Liquid FIRE.html
+/c/Users/Jarell/Desktop/Lab 6/responsiveness lab/Responsiveness lab.html
+/c/Users/Jarell/Desktop/midterm COMP/._aboutus.html
+/c/Users/Jarell/Desktop/midterm COMP/._Contact us page.html
+/c/Users/Jarell/Desktop/midterm COMP/._contactthankyou.html
+/c/Users/Jarell/Desktop/midterm COMP/._contactus.html
+/c/Users/Jarell/Desktop/midterm COMP/._drinkofthemonth.html
+/c/Users/Jarell/Desktop/midterm COMP/._forgotlogin.html
+/c/Users/Jarell/Desktop/midterm COMP/._home.html
+/c/Users/Jarell/Desktop/midterm COMP/._index.html
+/c/Users/Jarell/Desktop/midterm COMP/._instructions.html
+/c/Users/Jarell/Desktop/midterm COMP/._location.html
+/c/Users/Jarell/Desktop/midterm COMP/._regcomplete.html
+/c/Users/Jarell/Desktop/midterm COMP/._register.html
+/c/Users/Jarell/Desktop/midterm COMP/._signin.html
+/c/Users/Jarell/Desktop/midterm COMP/._signincomp.html
+/c/Users/Jarell/Desktop/midterm COMP/._TEMPLATE.html
+/c/Users/Jarell/Desktop/midterm COMP/aboutus.html
+/c/Users/Jarell/Desktop/midterm COMP/contactthankyou.html
+/c/Users/Jarell/Desktop/midterm COMP/contactus.html
+/c/Users/Jarell/Desktop/midterm COMP/drinkofthemonth.html
+/c/Users/Jarell/Desktop/midterm COMP/forgotlogin.html
+/c/Users/Jarell/Desktop/midterm COMP/home.html
+/c/Users/Jarell/Desktop/midterm COMP/index.html
+/c/Users/Jarell/Desktop/midterm COMP/instructions.html
+/c/Users/Jarell/Desktop/midterm COMP/location.html
+/c/Users/Jarell/Desktop/midterm COMP/regcomplete.html
+/c/Users/Jarell/Desktop/midterm COMP/register.html
+/c/Users/Jarell/Desktop/midterm COMP/signin.html
+/c/Users/Jarell/Desktop/midterm COMP/signincomp.html
+/c/Users/Jarell/Desktop/midterm COMP/TEMPLATE.html
+/c/Users/Jarell/Desktop/midterm COMP/tour.html
+/c/Users/Jarell/Desktop/midterm COMP/tourthankyou.html
+/c/Users/Jarell/Desktop/midterm-project-revised/Aboutus.html
+/c/Users/Jarell/Desktop/midterm-project-revised/Contact us page.html
+/c/Users/Jarell/Desktop/midterm-project-revised/contactthankyou.html
+/c/Users/Jarell/Desktop/midterm-project-revised/contactus.html
+/c/Users/Jarell/Desktop/midterm-project-revised/drinkofthemonth.html
+/c/Users/Jarell/Desktop/midterm-project-revised/forgotlogin.html
+/c/Users/Jarell/Desktop/midterm-project-revised/home.html
+/c/Users/Jarell/Desktop/midterm-project-revised/index.html
+/c/Users/Jarell/Desktop/midterm-project-revised/instructions.html
+/c/Users/Jarell/Desktop/midterm-project-revised/Location.html
+/c/Users/Jarell/Desktop/midterm-project-revised/regcomplete.html
+/c/Users/Jarell/Desktop/midterm-project-revised/register.html
+/c/Users/Jarell/Desktop/midterm-project-revised/signin.html
+/c/Users/Jarell/Desktop/midterm-project-revised/signincomp.html
+/c/Users/Jarell/Desktop/midterm-project-revised/TEMPLATE.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/Aboutus.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/Contact us page.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/contactthankyou.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/contactus.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/drinkofthemonth.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/forgotlogin.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/home.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/index.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/instructions.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/Location.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/._aboutus.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/._Contact us page.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/._contactthankyou.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/._contactus.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/._drinkofthemonth.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/._forgotlogin.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/._home.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/._index.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/._instructions.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/._location.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/._regcomplete.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/._register.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/._signin.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/._signincomp.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/._TEMPLATE.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/aboutus.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/contactthankyou.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/contactus.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/drinkofthemonth.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/forgotlogin.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/home.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/index.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/instructions.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/location.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/regcomplete.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/register.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/signin.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/signincomp.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/midterm COMP/TEMPLATE.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/regcomplete.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/register.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/signin.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/signincomp.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/TEMPLATE.html
+/c/Users/Jarell/Desktop/midterm-project-revised-1.0/tour.html
+/c/Users/Jarell/Desktop/midterm-project-revised-masterCOMP/aboutus.html
+/c/Users/Jarell/Desktop/midterm-project-revised-masterCOMP/contactthankyou.html
+/c/Users/Jarell/Desktop/midterm-project-revised-masterCOMP/contactus.html
+/c/Users/Jarell/Desktop/midterm-project-revised-masterCOMP/drinkofthemonth.html
+/c/Users/Jarell/Desktop/midterm-project-revised-masterCOMP/forgotlogin.html
+/c/Users/Jarell/Desktop/midterm-project-revised-masterCOMP/home.html
+/c/Users/Jarell/Desktop/midterm-project-revised-masterCOMP/index.html
+/c/Users/Jarell/Desktop/midterm-project-revised-masterCOMP/instructions.html
+/c/Users/Jarell/Desktop/midterm-project-revised-masterCOMP/location.html
+/c/Users/Jarell/Desktop/midterm-project-revised-masterCOMP/regcomplete.html
+/c/Users/Jarell/Desktop/midterm-project-revised-masterCOMP/register.html
+/c/Users/Jarell/Desktop/midterm-project-revised-masterCOMP/signin.html
+/c/Users/Jarell/Desktop/midterm-project-revised-masterCOMP/signincomp.html
+/c/Users/Jarell/Desktop/midterm-project-revised-masterCOMP/TEMPLATE.html
+/c/Users/Jarell/Desktop/responsiveness lab/Responsiveness lab.html
